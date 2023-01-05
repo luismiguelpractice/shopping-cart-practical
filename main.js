@@ -31,6 +31,12 @@ const db = {
       price: 1300,
       qty: 80,
     },
+    {
+      id: 3,
+      title: "FIFA 23",
+      price: 90,
+      qty: 80,
+    },
   ],
 };
 
